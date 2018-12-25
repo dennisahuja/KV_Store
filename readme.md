@@ -10,13 +10,18 @@ Basic Key Value Store in which Client and Server interact with the following fun
 
 ## How to Set Up
 
+Prerequisites :
+
+* python 3.7
+* pip3
+
 Use pipenv to setup the environment :
 ```
-pip install pipenv
+pip3 install pipenv
 pipenv install
 ```
 
-# How to Use
+## How to Use
 
 Run Server with the following command :
 ```
